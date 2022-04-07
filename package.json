@@ -1,6 +1,6 @@
 {
-  "name": "quiz",
-  "homepage": "https://drishabh109.github.io/quiz.github.io",
+  "name": "mathquiz",
+  "homepage": "https://drishabh109.github.io/mathquiz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
