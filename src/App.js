@@ -18,11 +18,11 @@ function App() {
   return (
     <div className="App">
       <div className="split right">
-        {!use ? <button onClick={show} className= 'App-header' >Start Quiz</button> : " "}
+        {!use ? <button onClick={show} className= 'App-header' >Start Quiz 2</button> : " "}
         {use ? <  First  / > : " " }
         </div>
        <div className="split left">
-        {!use1 ? <button onClick={show1} className= ' App-header1' >Start Quiz</button> : " "}
+        {!use1 ? <button onClick={show1} className= ' App-header1' >Start Quiz 1</button> : " "}
         {use1 ? <  Second  / > : " " }
         </div> 
     </div>
