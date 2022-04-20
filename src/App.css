@@ -31,9 +31,9 @@
 }
 .left{
   left: 0;
-  background-color: aliceblue;
+  background-color: rgb(190, 208, 223);
 }
 .right{
   right: 0;
-  background-color: antiquewhite;
+  background-color: rgb(212, 214, 218);
 }

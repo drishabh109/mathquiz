@@ -14,7 +14,7 @@ function App() {
     set1(use1 =>!use1);
   }
   
-
+  
   return (
     <div className="App">
       <div className="split right">
